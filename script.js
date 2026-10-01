@@ -1,1 +1,1 @@
-document.getElementById("openButton").onclick = function() {document.getElementById("story").scrollIntoview({})};
+document.getElementById("openButton").onclick = function() {document.getElementById("story").scrollIntoview({behavior:"smooth"})};
