@@ -1,0 +1,1 @@
+document.getElementById("openButton").onclick = function() {document.getElementById("story").scrollIntoview({})};
